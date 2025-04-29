@@ -8,6 +8,9 @@ https://github.com/maotoumao/MusicFree
 https://github.com/2dust/v2rayN
 上述VPN的教程
 https://v2rayn.org/
+以及自己的使用的服务器（价格低，但有时会掉线，但自用应该没什么问题）
+https://hostvds.com/control/servers/list
+
 
 一个许多功能（如低价高质机场和各种功能）的网址
 https://www.mohuangdiyu.com/
