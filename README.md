@@ -6,7 +6,7 @@ https://github.com/maotoumao/MusicFree
 
 一个简易的自建VPN的软件
 https://github.com/2dust/v2rayN
-这是上述VPN的教程
+上述VPN的教程
 https://v2rayn.org/
 
 一个许多功能（如低价高质机场和各种功能）的网址
